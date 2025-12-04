@@ -22,6 +22,8 @@ export interface UserProfileCardProps {
   onEdit?: (userId: string) => void;
   children?: React.ReactNode;
 }
+
+
 // types/index.ts
 export interface Product {
   id: string;

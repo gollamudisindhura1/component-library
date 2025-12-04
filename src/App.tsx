@@ -13,7 +13,7 @@ function App() {
    const user = {
     id: '1',
     name: 'Sindhu Gollamudi',
-    email: 'sindhu.gollamudie@gmail.com',
+    email: 'sindhu.gollamudi@gmail.com',
     role: 'Software Engineer',
     avatarUrl: 'https://thumbs.dreamstime.com/z/adorable-digital-artwork-features-cute-emoji-character-smiling-girl-black-hai-expressive-joyful-face-371437399.jpg'
   };
